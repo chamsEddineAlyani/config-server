@@ -6,3 +6,9 @@ eureka:
       defaultZone: http://localhost:8761
   instance:
     hostname: localhost
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: chams
+    password : chams
