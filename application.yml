@@ -12,3 +12,5 @@ spring:
     port: 5672
     username: chams
     password : chams
+  kafka:
+    bootstrap-servers: localhost:9092
